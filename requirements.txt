@@ -4,3 +4,4 @@ ipykernel
 dotenv
 langchain-groq
 langchain-core
+transformers
