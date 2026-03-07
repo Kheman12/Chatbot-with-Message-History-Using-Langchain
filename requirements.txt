@@ -5,3 +5,5 @@ dotenv
 langchain-groq
 langchain-core
 transformers
+langchain-chroma
+sentence-transformers
